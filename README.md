@@ -9,3 +9,7 @@ Potete fare riferimento a questa documentazione per le basi della programmazione
 Nella cartella [schematic](https://github.com/gbr1/OHWD17/tree/master/schematic) potete trovare un file [Fritzing](http://fritzing.org/home/) che potete modificare per disegnare il vostro schema.
 
 Nella cartella [source](https://github.com/gbr1/OHWD17/tree/master/source) trovate il programma test già precaricato su tutti i kit.
+
+*Evento by Nalug.
+In collaborazione con BEST Naples, ASSI Ingegneria e NeaPolis Innovation.
+Sponsorizzato da: RS-Components Italia, Katodo.com di Mauro Soligo*
